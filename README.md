@@ -30,13 +30,13 @@ This challenge consists of 24 problems and they have 100, 200, 300, 400, or 4~5 
 This is the final score and ranking of the top 5 teams.
 To check the scores of more teams, access the [rank page](https://dfchallenge.org/digital-forensics-challenge-2021-ranking).
 
-| Rank | Name | Final Score |
-|----|----------|---------|
-|🥇  | <strong>DogeCoin</strong> | 5520 |
-|🥈  | <strong>K2YPLZ</strong> | 5138 |
-|🥉  | <strong>InfoWarrior404</strong> | 5114 |
-|4   | <strong>HM</strong> | 4978 |
-|5   | <strong>K-Forensics</strong> | 3908 |
+| Rank | Name | Final Score | Nation |
+|----|----------|---------|---------|
+|🥇  | <strong>DogeCoin</strong> | 5520 | Korea (South) |
+|🥈  | <strong>K2YPLZ</strong> | 5138 | Korea (South) |
+|🥉  | <strong>InfoWarrior404</strong> | 5114 | Korea (South) |
+|4   | <strong>HM</strong> | 4978 | Korea (South) |
+|5   | <strong>K-Forensics</strong> | 3908 | Korea (South) |
 
 ## ⚔️ WriteUp
 
