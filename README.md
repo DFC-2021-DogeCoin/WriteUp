@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://badges.gitter.im/gitterHQ/gitter.png">
-    <img src="https://img.shields.io/badge/Licence-MIT-blue.svg">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDFC-2021-DogeCoin%2FWriteUp&count_bg=%23A53DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
 ## 🏆 Challenge Overview
@@ -111,6 +110,6 @@ If you want to contact us, please send at this [email](mailto:digitalisx99@gmail
 <img src="./res/nis_logo.png" height="64">
 
 ## License
-We forbid any commercial use of the content.
+This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
 
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
