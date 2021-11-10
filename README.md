@@ -48,65 +48,65 @@ We do not provide source codes and image files used in challenge, but only write
 
 | No | Problems | Keyword | Score |
 |----|----------|---------|-------|
-|101 | <strong>Shellcode Analysis</strong> | Assembly, Reversing | 100 |
-|102 | <strong>Find all graphics</strong> | Parsing, Graphics | 100 |
-|103 | <strong>Malware Downloader</strong> | Malware, Download | 100 |
-|104 | <strong>System reconfiguration</strong> | Docker, Memory, Dataleak | 100|
-|151    | <strong>Malicious Service</strong> | Malware, Registry | 0 |
+|101 | <strong>[Shellcode Analysis](./write-up/[DogeCoin][101].pdf)</strong> | Assembly, Reversing | 100 |
+|102 | <strong>[Find all graphics](./write-up/[DogeCoin][102].pdf)</strong> | Parsing, Graphics | 100 |
+|103 | <strong>[Malware Downloader](./write-up/[DogeCoin][103].pdf)</strong> | Malware, Download | 100 |
+|104 | <strong>[System reconfiguration](./write-up/[DogeCoin][104].pdf)</strong> | Docker, Memory, Dataleak | 100|
+|151    | <strong>[Malicious Service](./write-up/[DogeCoin][151].pdf)</strong> | Malware, Registry | 0 |
 
 ## 🦩 200-points problems
 #### Problems that can be solved by analyzing more than 2 artifacts.
 
 | No | Problems | Keyword | Score |
 |----|----------|---------|-------|
-|201 | <strong>Shredder Testing</strong> | Delete, Shredder, Testing | 200 |
-|202 | <strong>Where have you been</strong> | Wearable, Finding | 200 |
-|203 | <strong>Find suspicious USB & documents</strong> | USB, Document | 190 |
-|204 | <strong>Slack Off</strong> | Mobile, Game | 200 |
-|205 | <strong>Diagnosis</strong> | Telemetry, SQLite | 200 |
-|206 | <strong>Secret message</strong> | Steganography | 170 |
-|207 | <strong>Living</strong> | Living, ADS | 200 |
-|208 | <strong>iOS Fridump</strong> | iOS, Fridump3 | 200 |
+|201 | <strong>[Shredder Testing](./write-up/[DogeCoin][201].pdf)</strong> | Delete, Shredder, Testing | 200 |
+|202 | <strong>[Where have you been](./write-up/[DogeCoin][202].pdf)</strong> | Wearable, Finding | 200 |
+|203 | <strong>[Find suspicious USB & documents](./write-up/[DogeCoin][203].pdf)</strong> | USB, Document | 190 |
+|204 | <strong>[Slack Off](./write-up/[DogeCoin][204].pdf)</strong> | Mobile, Game | 200 |
+|205 | <strong>[Diagnosis](./write-up/[DogeCoin][205].pdf)</strong> | Telemetry, SQLite | 200 |
+|206 | <strong>[Secret message](./write-up/[DogeCoin][206].pdf)</strong> | Steganography | 170 |
+|207 | <strong>[Living](./write-up/[DogeCoin][207].pdf)</strong> | Living, ADS | 200 |
+|208 | <strong>[iOS Fridump](./write-up/[DogeCoin][208].pdf)</strong> | iOS, Fridump3 | 200 |
 
 ## 🦉 300-points problems
 #### Problems requiring analysis know-how as they may be time consuming or inaccurate with known tools.
 
 | No | Problems | Keyword | Score |
 |----|----------|---------|-------|
-|301 | <strong>What is the secret information</strong> | Android, Screenlock | 300 |
-|302 | <strong>User Behavior Analysis</strong> | Windows, Artifacts | 220 |
-|303 | <strong>How was it leaked?</strong> | Investigation, DataBreach | 300 |
-|304 | <strong>Find a confidential file</strong> | Partition, Decryption | 300 |
-|305 | <strong>Crack the app</strong> | Android, 2-FactorAuth | 300 |
-|306 | <strong>Event Logs</strong> | Evnetlogs | 225 |
-|307 | <strong>Bitcoin wallet</strong> | Cryptocurrency, Wallet | 240 |
-|308 | <strong>Find Forged Record</strong> | Forged, Meida_meta | 275 |
+|301 | <strong>[What is the secret information](./write-up/[DogeCoin][301].pdf)</strong> | Android, Screenlock | 300 |
+|302 | <strong>[User Behavior Analysis](./write-up/[DogeCoin][302].pdf)</strong> | Windows, Artifacts | 220 |
+|303 | <strong>[How was it leaked?](./write-up/[DogeCoin][303].pdf)</strong> | Investigation, DataBreach | 300 |
+|304 | <strong>[Find a confidential file](./write-up/[DogeCoin][304].pdf)</strong> | Partition, Decryption | 300 |
+|305 | <strong>[Crack the app](./write-up/[DogeCoin][305].pdf)</strong> | Android, 2-FactorAuth | 300 |
+|306 | <strong>[Event Logs](./write-up/[DogeCoin][306].pdf)</strong> | Evnetlogs | 225 |
+|307 | <strong>[Bitcoin wallet](./write-up/[DogeCoin][307].pdf)</strong> | Cryptocurrency, Wallet | 240 |
+|308 | <strong>[Find Forged Record](./write-up/[DogeCoin][308].pdf)</strong> | Forged, Meida_meta | 275 |
 
 ## 🐉 400-points problems
 #### Problems requiring the development of forensic tool.
 
 | No | Problems | Keyword | Score |
 |----|----------|---------|-------|
-|401 | <strong>Irresponsible predecessor</strong> | FileSystem, Decryption | 400 |
+|401 | <strong>[Irresponsible predecessor](./write-up/[DogeCoin][401].pdf)</strong> | FileSystem, Decryption | 400 |
 
 ## 🚀 500-points problems
 #### The solutions of this problems are not published.
 
 | No | Problems | Keyword | Score |
 |----|----------|---------|-------|
-|501 | <strong>VolaVola</strong> | Malware, Memory, Plugin | 500 |
-|502 | <strong>M1 Ransom</strong> | Reversing, Programming | 500 |
+|501 | <strong>[VolaVola](./write-up/[DogeCoin][501].pdf)</strong> | Malware, Memory, Plugin | 500 |
+|502 | <strong>[M1 Ransom](./write-up/[DogeCoin][502].pdf)</strong> | Reversing, Programming | 500 |
 
 ## 📝 Author
 If you want to contact us, please send at this [email](mailto:digitalisx99@gmail.com).
 
 <img src="./res/dogecoin_team.png" height="128">
 
-## 🎙 Organizer
+## 🎙 Challenge Organizer
 
 <img src="./res/kiisc_logo.png" height="64">
 
-## 🎭 Sponsor
+## 🎭 Challenge Sponsor
 
 <img src="./res/nis_logo.png" height="64">
 
