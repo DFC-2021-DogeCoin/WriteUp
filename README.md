@@ -40,7 +40,7 @@ To check the scores of more teams, access the [rank page](https://dfchallenge.or
 
 ## ⚔️ WriteUp
 
-We do not provide source codes and image files used in challenge, but only write-ups.
+We do not provide <strong>source codes</strong> and <strong>image files</strong> used in challenge, but only <strong>write-ups</strong>.
 
 ## 🐥 100-points problems
 #### Problems that can be solved using known theories and tools.
