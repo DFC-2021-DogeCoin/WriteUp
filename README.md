@@ -109,7 +109,7 @@ If you want to contact us, please send at this [email](mailto:digitalisx99@gmail
 
 <img src="./res/nis_logo.png" height="64">
 
-## License
+## 📌 License
 This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
 
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
