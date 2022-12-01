@@ -77,7 +77,7 @@ We do not provide <strong>source codes</strong> and <strong>image files</strong>
 |303 | <strong>[How was it leaked?](./write-up/[DogeCoin][303].pdf)</strong> | Investigation, DataBreach | 300 |  Donghyun Kim (ZIGBANG) |
 |304 | <strong>[Find a confidential file](./write-up/[DogeCoin][304].pdf)</strong> | Partition, Decryption | 300 | Donghyun Kim (Korea Military Academy) |
 |305 | <strong>[Crack the app](./write-up/[DogeCoin][305].pdf)</strong> | Android, 2-FactorAuth | 300 |  Dongbin Oh |
-|306 | <strong>[Event Logs](./write-up/[DogeCoin][306].pdf)</strong> | Evnetlogs | 225 | Donghyun Kim (Korea Military Academy) |
+|306 | <strong>[Event Logs](./write-up/[DogeCoin][306].pdf)</strong> | Eventlogs | 225 | Donghyun Kim (Korea Military Academy) |
 |307 | <strong>[Bitcoin wallet](./write-up/[DogeCoin][307].pdf)</strong> | Cryptocurrency, Wallet | 240 | All |
 |308 | <strong>[Find Forged Record](./write-up/[DogeCoin][308].pdf)</strong> | Forged, Meida_meta | 275 | Donghyun Kim (ZIGBANG) |
 
